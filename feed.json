@@ -124,7 +124,7 @@
             "url": "https://www.littlemittenpress.com/illustration-portfolio/home.html",
             "title": "Home",
             "summary": " Author + Illustrator + Picture Book Maker ",
-            "content_html": "\n    <h3 id=\"author--illustrator--picture-book-maker\" class=\"align-center\">\n      Author + Illustrator + Picture Book Maker\n    </h3>\n\n    <figure class=\"post__image post__image--full\">\n      <a href=\"https://www.littlemittenpress.com/illustration-portfolio/colour.html\">\n        <img loading=\"lazy\" src=\"https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/website-cover-2.jpg\" sizes=\"(max-width: 768px) 100vw, 1360px\" srcset=\"https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/responsive/website-cover-2-xs.jpg 300w ,https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/responsive/website-cover-2-sm.jpg 480w ,https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/responsive/website-cover-2-md.jpg 768w ,https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/responsive/website-cover-2-lg.jpg 1024w ,https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/responsive/website-cover-2-xl.jpg 1360w\"  height=\"453\" width=\"2000\" alt=\"Author / Illustrator / Picture Book Maker\" />\n      </a>\n      \n    </figure>",
+            "content_html": "\n    <figure class=\"post__image post__image--full\">\n      <a href=\"https://www.littlemittenpress.com/illustration-portfolio/colour.html\">\n        <img loading=\"lazy\" src=\"https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/website-cover-2.jpg\" sizes=\"(max-width: 768px) 100vw, 1360px\" srcset=\"https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/responsive/website-cover-2-xs.jpg 300w ,https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/responsive/website-cover-2-sm.jpg 480w ,https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/responsive/website-cover-2-md.jpg 768w ,https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/responsive/website-cover-2-lg.jpg 1024w ,https://www.littlemittenpress.com/illustration-portfolio/media/posts/1/responsive/website-cover-2-xl.jpg 1360w\"  height=\"453\" width=\"2000\" alt=\"Author / Illustrator / Picture Book Maker\" />\n      </a>\n      \n    </figure>\n\n    <h3 id=\"author--illustrator--picture-book-maker\" class=\"align-center\">\n      Author + Illustrator + Picture Book Maker\n    </h3>",
             "author": {
                 "name": "Craig Macnaughton"
             },
@@ -132,7 +132,7 @@
                    "Home"
             ],
             "date_published": "2021-07-29T14:11:50-04:00",
-            "date_modified": "2021-11-03T12:03:02-04:00"
+            "date_modified": "2021-11-03T12:08:05-04:00"
         }
     ]
 }
