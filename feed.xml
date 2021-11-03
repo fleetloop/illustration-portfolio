@@ -3,7 +3,7 @@
     <title>CRAIG MACNAUGHTON</title>
     <link href="https://www.littlemittenpress.com/illustration-portfolio/feed.xml" rel="self" />
     <link href="https://www.littlemittenpress.com/illustration-portfolio" />
-    <updated>2021-11-03T17:28:06-04:00</updated>
+    <updated>2021-11-03T17:37:22-04:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
@@ -311,7 +311,7 @@
         <id>https://www.littlemittenpress.com/illustration-portfolio/contact.html</id>
             <category term="Contact"/>
 
-        <updated>2021-11-03T11:27:27-04:00</updated>
+        <updated>2021-11-03T17:37:22-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.littlemittenpress.com/illustration-portfolio/media/posts/5/Website-Contact-Birds-Export.jpg" alt="" />
@@ -327,6 +327,7 @@
   </p>
 <hr class="separator separator--dots" />
 <div><!-- modify this form HTML and place wherever you want your form -->
+ <div align="center">
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xvodjrpp" method="post">
   <fieldset id="fs-frm-inputs">
    <label for="full-name">Your Name:</label>
@@ -337,11 +338,9 @@
     <textarea rows="5" cols="50" name="message" id="message" required=""></textarea></p>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
-  <input type="submit" value="Submit">
-  
+ <input type="submit" value="Submit">  
 </form>
-
-</div>
+</div></div>
 
   <p>
     
