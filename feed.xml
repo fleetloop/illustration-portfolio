@@ -3,7 +3,7 @@
     <title>CRAIG MACNAUGHTON</title>
     <link href="https://www.craigmacnaughton.com/feed.xml" rel="self" />
     <link href="https://www.craigmacnaughton.com" />
-    <updated>2021-11-06T09:43:00-04:00</updated>
+    <updated>2021-11-08T16:47:59-05:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
@@ -138,7 +138,7 @@
         <id>https://www.craigmacnaughton.com/black-and-white.html</id>
             <category term="BlackWhite"/>
 
-        <updated>2021-10-27T08:32:56-04:00</updated>
+        <updated>2021-11-08T16:47:59-05:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -167,6 +167,11 @@
     </figure><figure class="gallery__item">
       <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/24-Extinct-Export.jpg" data-size="2700x2700">
         <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/24-Extinct-Export-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/Christmas-Tree-Day-Square-Export.jpg" data-size="1920x1920">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/Christmas-Tree-Day-Square-Export-thumbnail.jpg" height="768" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
