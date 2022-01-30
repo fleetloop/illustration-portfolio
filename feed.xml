@@ -3,22 +3,22 @@
     <title>CRAIG MACNAUGHTON</title>
     <link href="https://www.craigmacnaughton.com/feed.xml" rel="self" />
     <link href="https://www.craigmacnaughton.com" />
-    <updated>2022-01-29T13:51:48-05:00</updated>
+    <updated>2022-01-30T10:18:42-05:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
     <id>https://www.craigmacnaughton.com</id>
 
     <entry>
-        <title>Homage</title>
+        <title>Spotlight</title>
         <author>
             <name>Craig Macnaughton</name>
         </author>
         <link href="https://www.craigmacnaughton.com/homage.html"/>
         <id>https://www.craigmacnaughton.com/homage.html</id>
-            <category term="#Homage"/>
+            <category term="Spotlight"/>
 
-        <updated>2022-01-29T13:51:48-05:00</updated>
+        <updated>2022-01-30T10:18:42-05:00</updated>
             <summary>
                 <![CDATA[
                      
