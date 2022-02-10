@@ -138,8 +138,8 @@
             "id": "https://www.craigmacnaughton.com/home.html",
             "url": "https://www.craigmacnaughton.com/home.html",
             "title": "Home",
-            "summary": " Author + Illustrator&nbsp; ",
-            "content_html": "\n    <h3 id=\"author--illustratornbsp\" class=\"align-center\">\n      Author + Illustrator&nbsp;\n    </h3>\n\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://www.craigmacnaughton.com/colour.html\">\n        <img loading=\"lazy\" src=\"https://www.craigmacnaughton.com/media/posts/1/Website-Cover-02-Export.jpg\" sizes=\"(max-width: 768px) 100vw, 1360px\" srcset=\"https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-xs.jpg 300w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-sm.jpg 480w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-md.jpg 768w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-lg.jpg 1024w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-xl.jpg 1360w\"  height=\"1271\" width=\"1920\" alt=\"\" />\n      </a>\n      \n    </figure>",
+            "summary": " Author / Illustrator&nbsp; ",
+            "content_html": "\n    <h3 id=\"author--illustratornbsp\" class=\"align-center\">\n      Author / Illustrator&nbsp;\n    </h3>\n\n    <figure class=\"post__image post__image--wide\">\n      <a href=\"https://www.craigmacnaughton.com/colour.html\">\n        <img loading=\"lazy\" src=\"https://www.craigmacnaughton.com/media/posts/1/Website-Cover-02-Export.jpg\" sizes=\"(max-width: 768px) 100vw, 1360px\" srcset=\"https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-xs.jpg 300w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-sm.jpg 480w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-md.jpg 768w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-lg.jpg 1024w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-xl.jpg 1360w\"  height=\"1271\" width=\"1920\" alt=\"\" />\n      </a>\n      \n    </figure>",
             "author": {
                 "name": "Craig Macnaughton"
             },
@@ -147,7 +147,7 @@
                    "Home"
             ],
             "date_published": "2021-07-29T14:11:50-04:00",
-            "date_modified": "2022-02-10T18:30:49-05:00"
+            "date_modified": "2022-02-10T18:33:48-05:00"
         }
     ]
 }
