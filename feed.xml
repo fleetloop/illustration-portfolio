@@ -3,7 +3,7 @@
     <title>CRAIG MACNAUGHTON</title>
     <link href="https://www.craigmacnaughton.com/feed.xml" rel="self" />
     <link href="https://www.craigmacnaughton.com" />
-    <updated>2022-02-15T09:51:52-05:00</updated>
+    <updated>2022-02-15T10:00:15-05:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
@@ -629,18 +629,18 @@
         <id>https://www.craigmacnaughton.com/home.html</id>
             <category term="Home"/>
 
-        <updated>2022-02-10T18:33:48-05:00</updated>
+        <updated>2022-02-15T10:00:15-05:00</updated>
             <summary>
                 <![CDATA[
-                     Author / Illustrator&nbsp; 
+                     author &amp; illustrator&nbsp; 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-    <h3 id="author--illustratornbsp" class="align-center">
-      Author / Illustrator&nbsp;
-    </h3>
+    <h4 id="author-amp-illustratornbsp" class="align-center">
+      author &amp; illustrator&nbsp;
+    </h4>
 
     <figure class="post__image post__image--wide">
       <a href="https://www.craigmacnaughton.com/colour.html">
