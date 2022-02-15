@@ -3,7 +3,7 @@
     <title>CRAIG MACNAUGHTON</title>
     <link href="https://www.craigmacnaughton.com/feed.xml" rel="self" />
     <link href="https://www.craigmacnaughton.com" />
-    <updated>2022-02-15T10:01:15-05:00</updated>
+    <updated>2022-02-15T10:38:21-05:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
@@ -124,7 +124,7 @@
         <id>https://www.craigmacnaughton.com/colour.html</id>
             <category term="Colour"/>
 
-        <updated>2022-02-15T09:51:52-05:00</updated>
+        <updated>2022-02-15T10:38:21-05:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -166,13 +166,18 @@
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Bug-Bird-Beanstalk-Page10-Export.jpg" data-size="x">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Bug-Bird-Beanstalk-Page10-Export-thumbnail.jpg" height="960" width="768" alt="" />
+      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Debonair-Tiger-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Debonair-Tiger-Export-thumbnail.jpg" height="768" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Jackie-Pose-Sheet-Export.jpg" data-size="3300x2550">
         <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Jackie-Pose-Sheet-Export-thumbnail.jpg" height="593" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Bug-Bird-Beanstalk-Page10-Export.jpg" data-size="x">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Bug-Bird-Beanstalk-Page10-Export-thumbnail.jpg" height="960" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
