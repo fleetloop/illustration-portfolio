@@ -3,7 +3,7 @@
     <title>CRAIG MACNAUGHTON</title>
     <link href="https://www.craigmacnaughton.com/feed.xml" rel="self" />
     <link href="https://www.craigmacnaughton.com" />
-    <updated>2022-02-19T12:16:03-05:00</updated>
+    <updated>2022-02-24T15:09:19-05:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.craigmacnaughton.com/spotlight.html</id>
             <category term="Spotlight"/>
 
-        <updated>2022-02-19T12:15:38-05:00</updated>
+        <updated>2022-02-24T15:09:19-05:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -112,6 +112,11 @@
     </figure><figure class="gallery__item">
       <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Tuba-Export.jpg" data-size="2700x2700">
         <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Tuba-Export-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Udu-Drum-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Udu-Drum-Export-thumbnail.jpg" height="768" width="768" alt="" />
       </a>
       
     </figure>
