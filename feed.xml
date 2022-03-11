@@ -3,7 +3,7 @@
     <title>CRAIG MACNAUGHTON</title>
     <link href="https://www.craigmacnaughton.com/feed.xml" rel="self" />
     <link href="https://www.craigmacnaughton.com" />
-    <updated>2022-03-05T11:34:42-05:00</updated>
+    <updated>2022-03-11T12:52:21-05:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.craigmacnaughton.com/spotlight.html</id>
             <category term="Spotlight"/>
 
-        <updated>2022-03-05T11:34:42-05:00</updated>
+        <updated>2022-03-11T12:52:21-05:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -122,6 +122,11 @@
     </figure><figure class="gallery__item">
       <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Violin-Export.jpg" data-size="2700x2700">
         <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Violin-Export-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Waterphone-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Waterphone-Export-thumbnail.jpg" height="768" width="768" alt="" />
       </a>
       
     </figure>
