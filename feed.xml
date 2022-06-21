@@ -3,12 +3,88 @@
     <title>CRAIG MACNAUGHTON</title>
     <link href="https://www.craigmacnaughton.com/feed.xml" rel="self" />
     <link href="https://www.craigmacnaughton.com" />
-    <updated>2022-03-29T18:25:16-04:00</updated>
+    <updated>2022-06-21T18:41:05-04:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
     <id>https://www.craigmacnaughton.com</id>
 
+    <entry>
+        <title>Testing</title>
+        <author>
+            <name>Craig Macnaughton</name>
+        </author>
+        <link href="https://www.craigmacnaughton.com/testing.html"/>
+        <id>https://www.craigmacnaughton.com/testing.html</id>
+
+        <updated>2022-06-08T11:18:07-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a cool new page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is a cool new page
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>R is for Rainforests:  A Brilliantly Biodiverse Alphabet!</title>
+        <author>
+            <name>Craig Macnaughton</name>
+        </author>
+        <link href="https://www.craigmacnaughton.com/r-rainforest.html"/>
+        <id>https://www.craigmacnaughton.com/r-rainforest.html</id>
+            <category term="Books"/>
+
+        <updated>2022-06-21T18:39:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.craigmacnaughton.com/media/posts/12/Website-Rainforest-Cover-Export.jpg" alt="" />
+                    R is for Rainforests: A Brilliantly Biodiverse Alphabet! written and illustrated by Craig Macnaughton Little Mitten Press / 2022 /&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.craigmacnaughton.com/media/posts/12/Website-Rainforest-Cover-Export.jpg" alt="" />
+                <div><p><b>R is for Rainforests: A Brilliantly Biodiverse Alphabet!</b><br><i>written and illustrated by Craig Macnaughton</i><br>Little Mitten Press / 2022 / 32 pages<br>Paperback: <i class="fab fa-amazon"></i> <a href="https://viewbook.at/r-rainforests">978-1-989657-06-5</a><br>Hardcover: <i class="fab fa-amazon"></i> <a href="http://viewbook.at/r-rainforests-hc">978-1-989657-07-2</a><br></p></div>
+
+  <p>
+    <b>From Amazon River Dolphin to Zodiac Moth, get to know some spectacularly special species!</b><br><br>Hold on to your alphabet as we travel through these excellent ecosystems! Kids of all ages will love discovering the ABCs of these jam-packed jungles.<br><br>This vibrant A-Z picture book takes you on a tropical tour to learn your ABCs with a collection of memorable mammals, brilliant birds and buzzing bugs. The expressive illustrations and fun facts are sure to make kids everywhere obsessed with the lush ecosystem of the rainforest!<br>
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="4">
+      <figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Cover.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Cover-thumbnail.jpg" height="540" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page01.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page01-thumbnail.jpg" height="540" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page02.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page02-thumbnail.jpg" height="540" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page03.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page03-thumbnail.jpg" height="540" width="768" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Spotlight</title>
         <author>
@@ -168,7 +244,7 @@
         <id>https://www.craigmacnaughton.com/colour.html</id>
             <category term="Colour"/>
 
-        <updated>2022-02-19T12:16:03-05:00</updated>
+        <updated>2022-06-21T18:41:05-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -176,6 +252,16 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Hamburg-Chicken-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Hamburg-Chicken-Export-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Dragon-Babies-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Dragon-Babies-Export-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
       <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Stuck-in-the-Snow-Export.jpg" data-size="2700x2700">
         <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Stuck-in-the-Snow-Export-thumbnail.jpg" height="768" width="768" alt="" />
       </a>
@@ -258,24 +344,6 @@
     </figure>
     </div>
   </div>
-
-  <p>
-    
-  </p>
-
-  <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
-      
-    </div>
-  </div>
-
-  <p>
-    
-  </p>
-
-  <p>
-    
-  </p>
             ]]>
         </content>
     </entry>
@@ -663,37 +731,6 @@
   <p>
     <br><br><strong></strong><strong></strong>Craig Macnaughton is an <a href="https://www.goodreads.com/craig_macnaughton ">author</a>, illustrator and the founder of <a href="https://www.littlemittenpress.com/">Little Mitten Press</a>. Also a stay-at-home-parent, <a href="https://fineartamerica.com/profiles/craig-macnaughton.html">fine artist</a> and film buff, Craig is excited to be a part of the magical world of picture book making.<br><br>Books include "<a href="https://www.craigmacnaughton.com/26-bugs.html">26 Bugs: An Incredible Insect ABC!</a>" (2021), "<a href="https://www.craigmacnaughton.com/birds-of-a-letter.html">Birds of a Letter: ABC Together!</a>" (2020) and "<a href="https://www.craigmacnaughton.com/a-b-sea-creatures.html">A B Sea Creatures: An Astonishing Aquatic ABC!</a>" (2019), with many on the way!<br><br>Also a budding chef, graphic designer and award-winning filmmaker, Craig is a member of <a href="https://www.12x12challenge.com/">Julie Hedlund’s 12x12 Challenge</a>, <a href="http://foresthillartclub.com/">The Forest Hill Art Club</a> and <a href="https://www.canscaip.org/">CANSCAIP</a> (Canadian Society of Children's Authors, Illustrators and Performers).<br><br>Craig lives in Toronto with his wife and two kids.<br>
   </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Home</title>
-        <author>
-            <name>Craig Macnaughton</name>
-        </author>
-        <link href="https://www.craigmacnaughton.com/home.html"/>
-        <id>https://www.craigmacnaughton.com/home.html</id>
-            <category term="Home"/>
-
-        <updated>2022-02-15T10:01:15-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Author + Illustrator&nbsp;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h2 id="author--illustratornbsp" class="align-center">
-      Author + Illustrator&nbsp;
-    </h2>
-
-    <figure class="post__image post__image--wide">
-      <a href="https://www.craigmacnaughton.com/colour.html">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/1/Website-Cover-02-Export.jpg" sizes="(max-width: 768px) 100vw, 1360px" srcset="https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-xs.jpg 300w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-sm.jpg 480w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-md.jpg 768w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-lg.jpg 1024w ,https://www.craigmacnaughton.com/media/posts/1/responsive/Website-Cover-02-Export-xl.jpg 1360w"  height="1271" width="1920" alt="" />
-      </a>
-      
-    </figure>
             ]]>
         </content>
     </entry>
