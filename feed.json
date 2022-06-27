@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.craigmacnaughton.com/somethings-missing.html",
+            "url": "https://www.craigmacnaughton.com/somethings-missing.html",
+            "title": "Something&#x27;s Missing (WIP)",
+            "summary": "How do you cope when you're feeling all alone? Stuff yourself with rollercoasters, junk food or video games? Surround yourself&hellip;",
+            "content_html": "<p>How do you cope when you're feeling all alone? Stuff yourself with rollercoasters, junk food or video games? Surround yourself with friends? A quirky story about loneliness, SOMETHING'S MISSING shows how sometimes it's OK to be all by yourself.</p>\n<p>SOMETHING'S MISSING (WC 328) was born of my own feelings of loneliness as a stay-at-home parent and someone who struggles with depression. I wanted to let my kids know that it's OK to be lonely sometimes, but in a fun, engaging way full of \"what ifs\" and silliness.</p>\n<p>Download <a href=\"https://www.craigmacnaughton.com/Somethings-Missing-Thumbnails-Macnaughton.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Dummy Thumbnails (PDF)</a></p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.craigmacnaughton.com/media/posts/15/gallery/Missy-Pose-Sheet-Export-v2.jpg\" data-size=\"3000x2400\"><img loading=\"lazy\" src=\"https://www.craigmacnaughton.com/media/posts/15/gallery/Missy-Pose-Sheet-Export-v2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.craigmacnaughton.com/media/posts/15/gallery/Doggy-Missing-Poses-Rough-Export.jpg\" data-size=\"3000x2400\"><img loading=\"lazy\" src=\"https://www.craigmacnaughton.com/media/posts/15/gallery/Doggy-Missing-Poses-Rough-Export-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.craigmacnaughton.com/media/posts/15/gallery/Mom-v3-Export.jpg\" data-size=\"2700x2700\"><img loading=\"lazy\" src=\"https://www.craigmacnaughton.com/media/posts/15/gallery/Mom-v3-Export-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.craigmacnaughton.com/media/posts/15/gallery/Roller-Coaster-Export.jpg\" data-size=\"1500x1500\"><img loading=\"lazy\" src=\"https://www.craigmacnaughton.com/media/posts/15/gallery/Roller-Coaster-Export-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Craig Macnaughton"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-27T17:47:51-04:00",
+            "date_modified": "2022-06-27T17:49:24-04:00"
+        },
+        {
             "id": "https://www.craigmacnaughton.com/testing.html",
             "url": "https://www.craigmacnaughton.com/testing.html",
             "title": "Testing",
@@ -145,22 +159,6 @@
             ],
             "date_published": "2021-07-31T18:31:33-04:00",
             "date_modified": "2021-11-03T19:01:28-04:00"
-        },
-        {
-            "id": "https://www.craigmacnaughton.com/about.html",
-            "url": "https://www.craigmacnaughton.com/about.html",
-            "title": "About",
-            "summary": "Craig Macnaughton is an author, illustrator and the founder of Little Mitten Press. Also a stay-at-home-parent, fine artist and film&hellip;",
-            "content_html": "\n  <p>\n    <br><br><strong></strong><strong></strong>Craig Macnaughton is an <a href=\"https://www.goodreads.com/craig_macnaughton \">author</a>, illustrator and the founder of <a href=\"https://www.littlemittenpress.com/\">Little Mitten Press</a>. Also a stay-at-home-parent, <a href=\"https://fineartamerica.com/profiles/craig-macnaughton.html\">fine artist</a> and film buff, Craig is excited to be a part of the magical world of picture book making.<br><br>Books include \"<a href=\"https://www.craigmacnaughton.com/26-bugs.html\">26 Bugs: An Incredible Insect ABC!</a>\" (2021), \"<a href=\"https://www.craigmacnaughton.com/birds-of-a-letter.html\">Birds of a Letter: ABC Together!</a>\" (2020) and \"<a href=\"https://www.craigmacnaughton.com/a-b-sea-creatures.html\">A B Sea Creatures: An Astonishing Aquatic ABC!</a>\" (2019), with many on the way!<br><br>Also a budding chef and graphic designer with a BFA in Screenwriting and English Literature, Craig is a member of <a href=\"https://www.12x12challenge.com/\">Julie Hedlund’s 12x12 Challenge</a>, <a href=\"https://canadaeast.scbwi.org/\">SCBWI Canada East</a>&nbsp;and <a href=\"https://www.canscaip.org/\">CANSCAIP</a> (Canadian Society of Children's Authors, Illustrators and Performers).<br><br>Craig lives in Toronto with his wife and two kids.<br>\n  </p>",
-            "image": "https://www.craigmacnaughton.com/media/posts/2/Vernazza_Photo.jpg",
-            "author": {
-                "name": "Craig Macnaughton"
-            },
-            "tags": [
-                   "About"
-            ],
-            "date_published": "2021-07-29T19:33:43-04:00",
-            "date_modified": "2022-06-27T17:37:09-04:00"
         }
     ]
 }
