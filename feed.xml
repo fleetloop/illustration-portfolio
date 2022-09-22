@@ -3,7 +3,7 @@
     <title>CRAIG MACNAUGHTON</title>
     <link href="https://www.craigmacnaughton.com/feed.xml" rel="self" />
     <link href="https://www.craigmacnaughton.com" />
-    <updated>2022-09-22T16:27:26-04:00</updated>
+    <updated>2022-09-22T16:54:35-04:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
@@ -274,7 +274,7 @@
         <id>https://www.craigmacnaughton.com/colour.html</id>
             <category term="Colour"/>
 
-        <updated>2022-09-22T16:27:26-04:00</updated>
+        <updated>2022-09-22T16:54:35-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -369,11 +369,6 @@
     </figure><figure class="gallery__item">
       <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Fantastic-Mr-Fox-Export.jpg" data-size="1200x1200">
         <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Fantastic-Mr-Fox-Export-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Scrooge-McDuck-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Scrooge-McDuck-Export-thumbnail.jpg" height="768" width="768" alt="" />
       </a>
       
     </figure>
