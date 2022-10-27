@@ -3,7 +3,7 @@
     <title>CRAIG MACNAUGHTON</title>
     <link href="https://www.craigmacnaughton.com/feed.xml" rel="self" />
     <link href="https://www.craigmacnaughton.com" />
-    <updated>2022-09-22T16:54:35-04:00</updated>
+    <updated>2022-10-27T13:02:03-04:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
@@ -274,7 +274,7 @@
         <id>https://www.craigmacnaughton.com/colour.html</id>
             <category term="Colour"/>
 
-        <updated>2022-09-22T16:54:35-04:00</updated>
+        <updated>2022-10-27T12:59:29-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -282,6 +282,11 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Growing-Pains-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Growing-Pains-Export-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
       <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Bunny-Announcement-Export-2.jpg" data-size="2700x2700">
         <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Bunny-Announcement-Export-2-thumbnail.jpg" height="768" width="768" alt="" />
       </a>
@@ -386,7 +391,7 @@
         <id>https://www.craigmacnaughton.com/black-and-white.html</id>
             <category term="BlackWhite"/>
 
-        <updated>2021-11-08T16:47:59-05:00</updated>
+        <updated>2022-10-27T13:02:03-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -394,6 +399,16 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/08-Inktober-Match-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/08-Inktober-Match-Export-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/13-Inktober-Kind-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/13-Inktober-Kind-Export-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
       <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/03-Vessel-Export.jpg" data-size="1500x1500">
         <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/03-Vessel-Export-thumbnail.jpg" height="768" width="768" alt="" />
       </a>
