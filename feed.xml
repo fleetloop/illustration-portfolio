@@ -1,51 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>CRAIG MACNAUGHTON</title>
-    <link href="https://www.craigmacnaughton.com/feed.xml" rel="self" />
-    <link href="https://www.craigmacnaughton.com" />
-    <updated>2022-10-27T13:02:03-04:00</updated>
+    <link href="https://craigmacnaughton.com/feed.xml" rel="self" />
+    <link href="https://craigmacnaughton.com" />
+    <updated>2024-07-16T21:07:11-04:00</updated>
     <author>
         <name>Craig Macnaughton</name>
     </author>
-    <id>https://www.craigmacnaughton.com</id>
+    <id>https://craigmacnaughton.com</id>
 
-    <entry>
-        <title>Something&#x27;s Missing (WIP)</title>
-        <author>
-            <name>Craig Macnaughton</name>
-        </author>
-        <link href="https://www.craigmacnaughton.com/somethings-missing.html"/>
-        <id>https://www.craigmacnaughton.com/somethings-missing.html</id>
-
-        <updated>2022-06-27T17:49:24-04:00</updated>
-            <summary>
-                <![CDATA[
-                    How do you cope when you're feeling all alone? Stuff yourself with rollercoasters, junk food or video games? Surround yourself&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>How do you cope when you're feeling all alone? Stuff yourself with rollercoasters, junk food or video games? Surround yourself with friends? A quirky story about loneliness, SOMETHING'S MISSING shows how sometimes it's OK to be all by yourself.</p>
-<p>SOMETHING'S MISSING (WC 328) was born of my own feelings of loneliness as a stay-at-home parent and someone who struggles with depression. I wanted to let my kids know that it's OK to be lonely sometimes, but in a fun, engaging way full of "what ifs" and silliness.</p>
-<p>Download <a href="https://www.craigmacnaughton.com/Somethings-Missing-Thumbnails-Macnaughton.pdf" target="_blank" rel="noopener noreferrer">Dummy Thumbnails (PDF)</a></p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.craigmacnaughton.com/media/posts/15/gallery/Missy-Pose-Sheet-Export-v2.jpg" data-size="3000x2400"><img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/15/gallery/Missy-Pose-Sheet-Export-v2-thumbnail.jpg" alt="" width="768" height="614"></a></figure>
-<figure class="gallery__item"><a href="https://www.craigmacnaughton.com/media/posts/15/gallery/Doggy-Missing-Poses-Rough-Export.jpg" data-size="3000x2400"><img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/15/gallery/Doggy-Missing-Poses-Rough-Export-thumbnail.jpg" alt="" width="768" height="614"></a></figure>
-<figure class="gallery__item"><a href="https://www.craigmacnaughton.com/media/posts/15/gallery/Mom-v3-Export.jpg" data-size="2700x2700"><img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/15/gallery/Mom-v3-Export-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://www.craigmacnaughton.com/media/posts/15/gallery/Roller-Coaster-Export.jpg" data-size="1500x1500"><img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/15/gallery/Roller-Coaster-Export-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-</div></div>
-<p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Testing</title>
         <author>
             <name>Craig Macnaughton</name>
         </author>
-        <link href="https://www.craigmacnaughton.com/testing.html"/>
-        <id>https://www.craigmacnaughton.com/testing.html</id>
+        <link href="https://craigmacnaughton.com/testing.html"/>
+        <id>https://craigmacnaughton.com/testing.html</id>
 
         <updated>2022-06-08T11:18:07-04:00</updated>
             <summary>
@@ -67,21 +37,21 @@
         <author>
             <name>Craig Macnaughton</name>
         </author>
-        <link href="https://www.craigmacnaughton.com/r-rainforest.html"/>
-        <id>https://www.craigmacnaughton.com/r-rainforest.html</id>
-        <media:content url="https://www.craigmacnaughton.com/media/posts/12/Website-Rainforest-Cover-Export.jpg" medium="image" />
+        <link href="https://craigmacnaughton.com/r-rainforest.html"/>
+        <id>https://craigmacnaughton.com/r-rainforest.html</id>
+        <media:content url="https://craigmacnaughton.com/media/posts/12/Website-Rainforest-Cover-Export.jpg" medium="image" />
             <category term="Books"/>
 
-        <updated>2022-06-21T18:39:17-04:00</updated>
+        <updated>2022-06-08T10:06:18-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.craigmacnaughton.com/media/posts/12/Website-Rainforest-Cover-Export.jpg" alt="" />
+                        <img src="https://craigmacnaughton.com/media/posts/12/Website-Rainforest-Cover-Export.jpg" alt="" />
                     R is for Rainforests: A Brilliantly Biodiverse Alphabet! written and illustrated by Craig Macnaughton Little Mitten Press / 2022 /&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.craigmacnaughton.com/media/posts/12/Website-Rainforest-Cover-Export.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://craigmacnaughton.com/media/posts/12/Website-Rainforest-Cover-Export.jpg" class="type:primaryImage" alt="" /></p>
                 <div><p><b>R is for Rainforests: A Brilliantly Biodiverse Alphabet!</b><br><i>written and illustrated by Craig Macnaughton</i><br>Little Mitten Press / 2022 / 32 pages<br>Paperback: <i class="fab fa-amazon"></i> <a href="https://viewbook.at/r-rainforests">978-1-989657-06-5</a><br>Hardcover: <i class="fab fa-amazon"></i> <a href="http://viewbook.at/r-rainforests-hc">978-1-989657-07-2</a><br></p></div>
 
   <p>
@@ -91,23 +61,23 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="4">
       <figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Cover.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Cover-thumbnail.jpg" height="540" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Cover.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Cover-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page01.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page01-thumbnail.jpg" height="540" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page01.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page01-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page02.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page02-thumbnail.jpg" height="540" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page02.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page02-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page03.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page03-thumbnail.jpg" height="540" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page03.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/12/gallery/Rainforests-Mockup-Page03-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure>
@@ -121,11 +91,11 @@
         <author>
             <name>Craig Macnaughton</name>
         </author>
-        <link href="https://www.craigmacnaughton.com/spotlight.html"/>
-        <id>https://www.craigmacnaughton.com/spotlight.html</id>
+        <link href="https://craigmacnaughton.com/spotlight.html"/>
+        <id>https://craigmacnaughton.com/spotlight.html</id>
             <category term="Spotlight"/>
 
-        <updated>2022-06-21T18:52:34-04:00</updated>
+        <updated>2022-01-29T13:51:02-05:00</updated>
             <summary>
                 <![CDATA[
                     @AnimalAlphabets is a weekly art challenge based on a letter. For this round we were asked to combine animals and&hellip;
@@ -141,123 +111,123 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Balalaika-02-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Balalaika-02-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Balalaika-02-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Balalaika-02-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Cymbal-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Cymbal-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Cymbal-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Cymbal-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Djembe-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Djembe-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Djembe-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Djembe-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Flute-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Flute-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Flute-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Flute-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Guiro-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Guiro-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Guiro-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Guiro-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Harmonica-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Harmonica-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Harmonica-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Harmonica-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Igil-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Igil-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Igil-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Igil-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Jinghu-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Jinghu-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Jinghu-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Jinghu-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Kouxian-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Kouxian-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Kouxian-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Kouxian-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Lyre-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Lyre-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Lyre-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Lyre-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Maracas-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Maracas-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Maracas-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Maracas-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Nai-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Nai-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Nai-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Nai-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Ocarina-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Ocarina-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Ocarina-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Ocarina-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Piano-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Piano-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Piano-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Piano-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Quinticlave-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Quinticlave-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Quinticlave-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Quinticlave-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Rainstick-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Rainstick-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Rainstick-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Rainstick-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Saxophone-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Saxophone-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Saxophone-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Saxophone-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Tuba-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Tuba-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Tuba-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Tuba-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Udu-Drum-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Udu-Drum-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Udu-Drum-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Udu-Drum-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Violin-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Violin-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Violin-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Violin-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Waterphone-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Waterphone-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Waterphone-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Waterphone-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Xeremia-Export-2.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Xeremia-Export-2-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Xeremia-Export-2.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Xeremia-Export-2-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Yunluo-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Yunluo-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Yunluo-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Yunluo-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/10/gallery/Zhaleika-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/10/gallery/Zhaleika-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/10/gallery/Zhaleika-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/10/gallery/Zhaleika-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure>
@@ -271,11 +241,11 @@
         <author>
             <name>Craig Macnaughton</name>
         </author>
-        <link href="https://www.craigmacnaughton.com/colour.html"/>
-        <id>https://www.craigmacnaughton.com/colour.html</id>
+        <link href="https://craigmacnaughton.com/colour.html"/>
+        <id>https://craigmacnaughton.com/colour.html</id>
             <category term="Colour"/>
 
-        <updated>2022-10-27T12:59:29-04:00</updated>
+        <updated>2021-10-26T16:34:21-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -283,103 +253,113 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Growing-Pains-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Growing-Pains-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Trollicorn-Export.jpg" data-size="1920x1920">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Trollicorn-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Bunny-Announcement-Export-2.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Bunny-Announcement-Export-2-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Growing-Pains-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Growing-Pains-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Oranda-Goldfish-Export02.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Oranda-Goldfish-Export02-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Bunny-Announcement-Export-2.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Bunny-Announcement-Export-2-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Hamburg-Chicken-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Hamburg-Chicken-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Oranda-Goldfish-Export02.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Oranda-Goldfish-Export02-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Dragon-Babies-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Dragon-Babies-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Hamburg-Chicken-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Hamburg-Chicken-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Stuck-in-the-Snow-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Stuck-in-the-Snow-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Dragon-Babies-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Dragon-Babies-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/009-Arctic-Tern-Export.jpg" data-size="1080x1080">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/009-Arctic-Tern-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Stuck-in-the-Snow-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Stuck-in-the-Snow-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Pinely-Character-Sheet-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Pinely-Character-Sheet-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/009-Arctic-Tern-Export.jpg" data-size="1080x1080">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/009-Arctic-Tern-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Sniffy-Dog-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Sniffy-Dog-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Pinely-Character-Sheet-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Pinely-Character-Sheet-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Lovestruck-Frolicking-Pigs-Export.png" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Lovestruck-Frolicking-Pigs-Export-thumbnail.png" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Sniffy-Dog-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Sniffy-Dog-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Mom-v3-Export-2.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Mom-v3-Export-2-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Lovestruck-Frolicking-Pigs-Export.png" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Lovestruck-Frolicking-Pigs-Export-thumbnail.png" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Debonair-Tiger-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Debonair-Tiger-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Mom-v3-Export-2.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Mom-v3-Export-2-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Jackie-Pose-Sheet-Export.jpg" data-size="3300x2550">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Jackie-Pose-Sheet-Export-thumbnail.jpg" height="593" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Debonair-Tiger-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Debonair-Tiger-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Bug-Bird-Beanstalk-Page10-Export.jpg" data-size="x">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Bug-Bird-Beanstalk-Page10-Export-thumbnail.jpg" height="960" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Jackie-Pose-Sheet-Export.jpg" data-size="3300x2550">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Jackie-Pose-Sheet-Export-thumbnail.jpg" height="593" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Tern-Flap-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Tern-Flap-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Bug-Bird-Beanstalk-Page10-Export.jpg" data-size="x">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Bug-Bird-Beanstalk-Page10-Export-thumbnail.jpg" height="960" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Last-Day-Larry-Pitch-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Last-Day-Larry-Pitch-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Tern-Flap-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Tern-Flap-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Toucan-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Toucan-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Last-Day-Larry-Pitch-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Last-Day-Larry-Pitch-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/FDC-Strutting-Cosmic-Cat-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/FDC-Strutting-Cosmic-Cat-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Toucan-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Toucan-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/9/gallery/Fantastic-Mr-Fox-Export.jpg" data-size="1200x1200">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/9/gallery/Fantastic-Mr-Fox-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/FDC-Strutting-Cosmic-Cat-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/FDC-Strutting-Cosmic-Cat-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://craigmacnaughton.com/media/posts/9/gallery/Fantastic-Mr-Fox-Export.jpg" data-size="1200x1200">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/9/gallery/Fantastic-Mr-Fox-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure>
     </div>
   </div>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="" height="" width="" alt=""  data-is-external-image="true">
+      
+    </figure>
             ]]>
         </content>
     </entry>
@@ -388,11 +368,11 @@
         <author>
             <name>Craig Macnaughton</name>
         </author>
-        <link href="https://www.craigmacnaughton.com/black-and-white.html"/>
-        <id>https://www.craigmacnaughton.com/black-and-white.html</id>
+        <link href="https://craigmacnaughton.com/black-and-white.html"/>
+        <id>https://craigmacnaughton.com/black-and-white.html</id>
             <category term="BlackWhite"/>
 
-        <updated>2022-10-27T13:02:03-04:00</updated>
+        <updated>2021-10-26T15:36:41-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -400,103 +380,103 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/08-Inktober-Match-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/08-Inktober-Match-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/08-Inktober-Match-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/08-Inktober-Match-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/13-Inktober-Kind-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/13-Inktober-Kind-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/13-Inktober-Kind-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/13-Inktober-Kind-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/03-Vessel-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/03-Vessel-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/03-Vessel-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/03-Vessel-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/04-Knot-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/04-Knot-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/04-Knot-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/04-Knot-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/17-Collide-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/17-Collide-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/17-Collide-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/17-Collide-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/24-Extinct-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/24-Extinct-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/24-Extinct-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/24-Extinct-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/Christmas-Tree-Day-Square-Export.jpg" data-size="1920x1920">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/Christmas-Tree-Day-Square-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/Christmas-Tree-Day-Square-Export.jpg" data-size="1920x1920">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/Christmas-Tree-Day-Square-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/Bird-Feeder-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/Bird-Feeder-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/Bird-Feeder-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/Bird-Feeder-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/12-Stuck-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/12-Stuck-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/12-Stuck-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/12-Stuck-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/13-Roof-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/13-Roof-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/13-Roof-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/13-Roof-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/Inktober-22-Chef-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/Inktober-22-Chef-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/Inktober-22-Chef-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/Inktober-22-Chef-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/Carniverous-Gang-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/Carniverous-Gang-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/Carniverous-Gang-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/Carniverous-Gang-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/20-Sprout-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/20-Sprout-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/20-Sprout-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/20-Sprout-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/Giant-Flute-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/Giant-Flute-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/Giant-Flute-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/Giant-Flute-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/18-Moon-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/18-Moon-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/18-Moon-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/18-Moon-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/25-Splat-Export.jpg" data-size="2700x2700">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/25-Splat-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/25-Splat-Export.jpg" data-size="2700x2700">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/25-Splat-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/14-Tick-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/14-Tick-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/14-Tick-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/14-Tick-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/Inktober-27-Music-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/Inktober-27-Music-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/Inktober-27-Music-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/Inktober-27-Music-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/Sadies-Breakfast-Export.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/Sadies-Breakfast-Export-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/Sadies-Breakfast-Export.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/Sadies-Breakfast-Export-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/8/gallery/15-Helmet-Export-2.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/8/gallery/15-Helmet-Export-2-thumbnail.jpg" height="768" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/8/gallery/15-Helmet-Export-2.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/8/gallery/15-Helmet-Export-2-thumbnail.jpg" height="768" width="768" alt="" >
       </a>
       
     </figure>
@@ -510,21 +490,21 @@
         <author>
             <name>Craig Macnaughton</name>
         </author>
-        <link href="https://www.craigmacnaughton.com/26-bugs.html"/>
-        <id>https://www.craigmacnaughton.com/26-bugs.html</id>
-        <media:content url="https://www.craigmacnaughton.com/media/posts/7/26-Bugs-Covers-Forest-Floor-Export.jpg" medium="image" />
+        <link href="https://craigmacnaughton.com/26-bugs.html"/>
+        <id>https://craigmacnaughton.com/26-bugs.html</id>
+        <media:content url="https://craigmacnaughton.com/media/posts/7/26-Bugs-Covers-Forest-Floor-Export.jpg" medium="image" />
             <category term="Books"/>
 
-        <updated>2021-11-04T08:05:22-04:00</updated>
+        <updated>2021-08-01T11:57:12-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.craigmacnaughton.com/media/posts/7/26-Bugs-Covers-Forest-Floor-Export.jpg" alt="" />
+                        <img src="https://craigmacnaughton.com/media/posts/7/26-Bugs-Covers-Forest-Floor-Export.jpg" alt="" />
                     26 Bugs: An Incredible Insect ABC! written and illustrated by Craig Macnaughton Little Mitten Press / 2021 / 32 pages&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.craigmacnaughton.com/media/posts/7/26-Bugs-Covers-Forest-Floor-Export.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://craigmacnaughton.com/media/posts/7/26-Bugs-Covers-Forest-Floor-Export.jpg" class="type:primaryImage" alt="" /></p>
                 <div><p><b>26 Bugs: An Incredible Insect ABC!</b><br><i>written and illustrated by Craig Macnaughton</i><br>Little Mitten Press / 2021 / 32 pages<br>Paperback: <i class="fab fa-amazon"></i> <a href="https://viewbook.at/26-bugs">978-1-989657-06-5</a><br>Hardcover: <i class="fab fa-amazon"></i> <a href="https://viewbook.at/26-bugs-hc">978-1-989657-07-2</a><br></p></div>
 
     <figure class="blockquote">
@@ -539,23 +519,23 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="4">
       <figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Cover.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Cover-thumbnail.jpg" height="540" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Cover.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Cover-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page01.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page01-thumbnail.jpg" height="540" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page01.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page01-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page02.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page02-thumbnail.jpg" height="540" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page02.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page02-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page03.jpg" data-size="1024x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page03-thumbnail.jpg" height="540" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page03.jpg" data-size="1024x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/7/gallery/Bugs-Mockup-Page03-thumbnail.jpg" height="540" width="768" alt="" >
       </a>
       
     </figure>
@@ -574,21 +554,21 @@
         <author>
             <name>Craig Macnaughton</name>
         </author>
-        <link href="https://www.craigmacnaughton.com/contact.html"/>
-        <id>https://www.craigmacnaughton.com/contact.html</id>
-        <media:content url="https://www.craigmacnaughton.com/media/posts/5/Website-Contact-Birds.jpg" medium="image" />
+        <link href="https://craigmacnaughton.com/contact.html"/>
+        <id>https://craigmacnaughton.com/contact.html</id>
+        <media:content url="https://craigmacnaughton.com/media/posts/5/Website-Contact-Birds.jpg" medium="image" />
             <category term="Contact"/>
 
-        <updated>2021-11-04T10:25:47-04:00</updated>
+        <updated>2021-07-31T18:49:26-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.craigmacnaughton.com/media/posts/5/Website-Contact-Birds.jpg" alt="" />
+                        <img src="https://craigmacnaughton.com/media/posts/5/Website-Contact-Birds.jpg" alt="" />
                     What can I do for you today? Perhaps you're curious as to what that one bird said to the other&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.craigmacnaughton.com/media/posts/5/Website-Contact-Birds.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://craigmacnaughton.com/media/posts/5/Website-Contact-Birds.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     <b>What can I do for you today?</b> Perhaps you're curious as to what that one bird said to the other bird, or how that chimp got such a spiffy outfit, or why that moth is leaving earth's orbit? Or maybe why Fantastic Mr. Fox is suddenly a Ralph Lauren model? Or you really, <em>really</em> want to know who Last Day Larry is? We've all been there, with the questions, but let me assure you, I'm here to help.&nbsp;
@@ -621,21 +601,21 @@
         <author>
             <name>Craig Macnaughton</name>
         </author>
-        <link href="https://www.craigmacnaughton.com/birds-of-a-letter.html"/>
-        <id>https://www.craigmacnaughton.com/birds-of-a-letter.html</id>
-        <media:content url="https://www.craigmacnaughton.com/media/posts/4/Birds-Square_Book_Mockup_3.jpg" medium="image" />
+        <link href="https://craigmacnaughton.com/birds-of-a-letter.html"/>
+        <id>https://craigmacnaughton.com/birds-of-a-letter.html</id>
+        <media:content url="https://craigmacnaughton.com/media/posts/4/Birds-Square_Book_Mockup_3.jpg" medium="image" />
             <category term="Books"/>
 
-        <updated>2021-11-03T17:27:46-04:00</updated>
+        <updated>2021-07-31T18:31:57-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.craigmacnaughton.com/media/posts/4/Birds-Square_Book_Mockup_3.jpg" alt="" />
+                        <img src="https://craigmacnaughton.com/media/posts/4/Birds-Square_Book_Mockup_3.jpg" alt="" />
                     Birds of a Letter: ABC Together! written and illustrated by Craig Macnaughton Little Mitten Press / 2020 / 32 pages&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.craigmacnaughton.com/media/posts/4/Birds-Square_Book_Mockup_3.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://craigmacnaughton.com/media/posts/4/Birds-Square_Book_Mockup_3.jpg" class="type:primaryImage" alt="" /></p>
                 <div><p><b>Birds of a Letter: ABC Together!</b><br>written and illustrated by Craig Macnaughton<br>Little Mitten Press / 2020 / 32 pages<br>Paperback: <i class="fab fa-amazon"></i> <a href="https://viewbook.at/birds-of-a-letter">978-1-989657-03-4</a><br>Hardcover: <i class="fab fa-amazon"></i> <a href="http://viewbook.at/birds-of-a-letter-hc">978-1-989657-04-1</a></p></div>
 
     <figure class="blockquote">
@@ -655,23 +635,23 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="4">
       <figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Cover.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Cover-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Cover.jpg" data-size="1080x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Cover-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page01.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page01-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page01.jpg" data-size="1080x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page01-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page02.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page02-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page02.jpg" data-size="1080x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page02-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page03.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page03-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page03.jpg" data-size="1080x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/4/gallery/Birds-Mockup-Page03-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure>
@@ -694,21 +674,21 @@
         <author>
             <name>Craig Macnaughton</name>
         </author>
-        <link href="https://www.craigmacnaughton.com/a-b-sea-creatures.html"/>
-        <id>https://www.craigmacnaughton.com/a-b-sea-creatures.html</id>
-        <media:content url="https://www.craigmacnaughton.com/media/posts/3/Website-ABSea-Cover-2.jpg" medium="image" />
+        <link href="https://craigmacnaughton.com/a-b-sea-creatures.html"/>
+        <id>https://craigmacnaughton.com/a-b-sea-creatures.html</id>
+        <media:content url="https://craigmacnaughton.com/media/posts/3/Website-ABSea-Cover-2.jpg" medium="image" />
             <category term="Books"/>
 
-        <updated>2021-11-03T19:01:28-04:00</updated>
+        <updated>2021-07-31T18:31:33-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.craigmacnaughton.com/media/posts/3/Website-ABSea-Cover-2.jpg" alt="" />
+                        <img src="https://craigmacnaughton.com/media/posts/3/Website-ABSea-Cover-2.jpg" alt="" />
                     A B Sea Creatures: An Astonishing Aquatic ABC! written and illustrated by Craig Macnaughton Little Mitten Press / 2019 /&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.craigmacnaughton.com/media/posts/3/Website-ABSea-Cover-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://craigmacnaughton.com/media/posts/3/Website-ABSea-Cover-2.jpg" class="type:primaryImage" alt="" /></p>
                 <div><p><b>A B Sea Creatures: An Astonishing Aquatic ABC!</b><br>written and illustrated by Craig Macnaughton<br>Little Mitten Press / 2019 / 32 pages<br>Paperback: <i class="fab fa-amazon"></i> <a href="http://viewbook.at/a-b-sea-creatures">978-1-989657-02-7</a><br>Hardcover: <i class="fab fa-amazon"></i> <a href="http://viewbook.at/a-b-sea-creatures-hc">978-1-989657-00-3</a></p></div>
 
     <figure class="blockquote">
@@ -728,23 +708,23 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="4">
       <figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Cover.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Cover-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Cover.jpg" data-size="1080x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Cover-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page01.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page01-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page01.jpg" data-size="1080x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page01-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page02.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page02-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page02.jpg" data-size="1080x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page02-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://www.craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page03.jpg" data-size="1080x720">
-        <img loading="lazy" src="https://www.craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page03-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page03.jpg" data-size="1080x720">
+        <img loading="lazy" src="https://craigmacnaughton.com/media/posts/3/gallery/ABSea-Mockup-Page03-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure>
@@ -755,6 +735,33 @@
       <blockquote>“The illustrations are colorful and magical, just like the sea creatures that many readers are not aware of, and they bring out the diversity of marine life beautifully.”</blockquote>
       <figcaption>Reader's Favorite Book Reviews</figcaption>
     </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Craig Macnaughton</name>
+        </author>
+        <link href="https://craigmacnaughton.com/about.html"/>
+        <id>https://craigmacnaughton.com/about.html</id>
+        <media:content url="https://craigmacnaughton.com/media/posts/2/Vernazza_Photo.jpg" medium="image" />
+            <category term="About"/>
+
+        <updated>2021-07-29T19:33:43-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://craigmacnaughton.com/media/posts/2/Vernazza_Photo.jpg" alt="" />
+                    Craig Macnaughton is an author, illustrator and the founder of Little Mitten Press. Also a stay-at-home-parent, fine artist and film&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://craigmacnaughton.com/media/posts/2/Vernazza_Photo.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    <br><br><strong></strong><strong></strong>Craig Macnaughton is an <a href="https://www.goodreads.com/craig_macnaughton ">author</a>, illustrator and the founder of <a href="https://www.littlemittenpress.com/">Little Mitten Press</a>. Also a stay-at-home-parent, <a href="https://fineartamerica.com/profiles/craig-macnaughton.html">fine artist</a> and film buff, Craig is excited to be a part of the magical world of picture book making.&nbsp;He is represented by <a href="https://twitter.com/PrimarilyProse">Delia Berrigan</a> at <a href="http://martinliterarymanagement.com/">Martin Literary Management</a>.<br><br>Books include "<a href="https://craigmacnaughton.com/r-rainforest.html">R is for Rainforests: A Brilliantly Biodiverse Alphabet!</a>" (2022), "<a href="https://craigmacnaughton.com/26-bugs.html">26 Bugs: An Incredible Insect ABC!</a>" (2021), "<a href="https://craigmacnaughton.com/birds-of-a-letter.html">Birds of a Letter: ABC Together!</a>" (2020) and "<a href="https://craigmacnaughton.com/a-b-sea-creatures.html">A B Sea Creatures: An Astonishing Aquatic ABC!</a>" (2019), with many on the way!<br><br>Also a budding chef and graphic designer with a BFA in Screenwriting and English Literature, Craig is a member of <a href="https://www.12x12challenge.com/">Julie Hedlund’s 12x12 Challenge</a>, <a href="https://canadaeast.scbwi.org/">SCBWI Canada East</a>&nbsp;and <a href="https://www.canscaip.org/">CANSCAIP</a> (Canadian Society of Children's Authors, Illustrators and Performers).<br><br>Craig lives in Toronto with his wife and two kids.&nbsp;<br>
+  </p>
             ]]>
         </content>
     </entry>
